@@ -1,9 +1,10 @@
 # Cafe-Harmony Sales Performance Analysis
 Welcome to Café Harmony, a new and exciting virtual café chain! The café specializes in offering a variety of drinks, snacks, and light meals to customers. Over the past year, Café Harmony has seen impressive growth but now faces new challenges as the company is scaling to meet customer demand.
 The café operates across four key locations in the city—Uptown, Airport, Suburbs, and Downtown—each with unique customer preferences and performance metrics. With a total customer base of 1,000 and a dedicated workforce of 1,000 employees. They are committed to delivering high quality products and exceptional service.
-For this business data analysis, I utilized a master sample of 608 based on sales and customer feedback responses, providing valuable insights into sales, stock management, product satisfaction, and consumption trends. These findings will help guide the business’s strategic decisions to continue enhancing its offerings and overall customer experience.
-based on the analysis, I found out Cappuccino & Muffins generates high revenue, and Croissant and latte had low sales.
-I recommended to café harmony to consider promotional offers by pairing Cappuccino & Muffins together to increase sales significantly.
+For this business data analysis, I ensured all datasets are clean and ready for analysis, made use of Excel formulas (like IFS, IF AND, COUNTIF, XLOOKUP, INDEX/MATCH) to analyze the data. I also Created a dashboard that visually communicates the answers to the business questions using charts, pivot tables, and slicers.
+I utilized a master sample of 608 based on sales and customer feedback responses, providing valuable insights into sales, stock management, product satisfaction, and consumption trends. These findings will help guide the business’s strategic decisions to continue enhancing its offerings and overall customer experience.
+based on the analysis, I Provided recommendations for the business decisions based on the data insights and findings.
+I found out Cappuccino & Muffins generates high revenue, and Croissant and latte had low sales. I recommended to café harmony to consider promotional offers by pairing Cappuccino & Muffins together to increase sales significantly.
 To Boost Croissant and latte Sales, consider promoting them by pairing (Bundle offer) them with cappuccino or Iced tea and muffins to improve sales. 
 Make the promotion trendy and offer discounts on the product to make it appealing to the age groups of (18-30 and 31-43) posting them on social media (Twitter, Instagram, and Facebook) while also offering student discounts.
 For the 57 above Age Group, café harmony should consider promoting healthier options and products that cater to this group’s preferences.
