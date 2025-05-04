@@ -2,14 +2,14 @@
 Welcome to Café Harmony, a new and exciting virtual café chain! The café specializes in offering a variety of drinks, snacks, and light meals to customers. Over the past year, Café Harmony has seen impressive growth but now faces new challenges as the company is scaling to meet customer demand.
 The café operates across four key locations in the city—Uptown, Airport, Suburbs, and Downtown—each with unique customer preferences and performance metrics. With a total customer base of 1,000 and a dedicated workforce of 1,000 employees. They are committed to delivering high￾quality products and exceptional service.
 For this business data analysis, I utilized a master sample of 608 based on sales and customer feedback responses, providing valuable insights into sales, stock management, product satisfaction, and consumption trends. These findings will help guide the business’s strategic decisions to continue enhancing its offerings and overall customer experience.
-based on the analysis, i found out Cappuccino & Muffins generates high revenue, and Croissant and latte had low sales.
-i recommended to café harmony to consider promotional offers by pairing Cappuccino & Muffins together to increase sales significantly.
+based on the analysis, I found out Cappuccino & Muffins generates high revenue, and Croissant and latte had low sales.
+I recommended to café harmony to consider promotional offers by pairing Cappuccino & Muffins together to increase sales significantly.
 To Boost Croissant and latte Sales, consider promoting them by pairing (Bundle offer) them with cappuccino or Iced tea and muffins to improve sales. 
 Make the promotion trendy and offer discounts on the product to make it appealing to the age groups of (18-30 and 31-43) posting them on social media (Twitter, Instagram, and Facebook) while also offering student discounts.
 For the 57 above Age Group, café harmony should consider promoting healthier options and products that cater to this group’s preferences.
 Based on the analysis, it’s clear that the Latte Performance is low because of low stock in milk. Café harmony should get new milk suppliers with rich quality, adjust the price and also market the new and improved latte to improve sales.
 café harmony should focus its efforts on weaker products (croissants and Latte) by always making them regularly available on the menu.
-i also advised Café harmony should introduce and compensate the top performer with sales commission to drive sales and improve those underperforming.
+I also advised Café harmony should introduce and compensate the top performer with sales commission to drive sales and improve those underperforming.
 Adequate training should be done monthly or quarterly to improve employees performance and sales.
 The café should analyze feedback comments (1 & 2 ratings) to help pinpoint issues and devise means to improve the rating through improving areas in service quality, menu variety, or pricing.
 The business should focus on converting 3 ratings into 4 or 5 ratings experiences by improving some of its products, like Latte and iced tea, and also enhancing advertising and providing better service.
