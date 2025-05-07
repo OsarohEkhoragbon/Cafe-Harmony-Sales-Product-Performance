@@ -1,36 +1,68 @@
-# Cafe-Harmony Sales Performance Analysis
-Welcome to Café Harmony, a new and exciting virtual café chain! The café specializes in offering a variety of drinks, snacks, and light meals to customers. Over the past year, Café Harmony has seen impressive growth but now faces new challenges as the company is scaling to meet customer demand.
-The café operates across four key locations in the city—Uptown, Airport, Suburbs, and Downtown—each with unique customer preferences and performance metrics. With a total customer base of 1,000 and a dedicated workforce of 1,000 employees. They are committed to delivering high quality products and exceptional service.
-For this Excel-powered dashboard data analysis, I ensured all datasets are clean and ready for analysis, made use of Excel formulas (like IFS, IF AND, COUNTIF, XLOOKUP, INDEX/MATCH) to analyze the data. I also Created a dashboard that visually communicates the answers to the business questions using charts, pivot tables, and slicers.
+# ☕ Café Harmony – Sales Performance Analysis (Excel Dashboard)
 
+## 📄 Project Summary
 
-I utilized a master sample of 608 based on sales and customer feedback responses, providing valuable insights into sales, stock management, product satisfaction, and consumption trends. These findings will help guide the business’s strategic decisions to continue enhancing its offerings and overall customer experience.
+**Café Harmony** is a vibrant virtual café chain offering drinks, snacks, and light meals across four key city locations—**Uptown, Airport, Suburbs, and Downtown**. With an expanding customer base and growing demand, the business needed actionable insights to enhance sales, customer satisfaction, and product performance.
 
+This project leverages **Microsoft Excel** to analyze a master dataset of **608 sales and feedback responses**. I applied advanced Excel formulas and created an interactive dashboard using pivot tables, slicers, and visual charts to communicate key business insights and support strategic decision-making.
 
-based on the analysis, I Provided recommendations for the business decisions based on the data insights and findings.
-I found out Cappuccino & Muffins generates high revenue, and Croissant and latte had low sales. I recommended to café harmony to consider promotional offers by pairing Cappuccino & Muffins together to increase sales significantly.
-To Boost Croissant and latte Sales, consider promoting them by pairing (Bundle offer) them with cappuccino or Iced tea and muffins to improve sales. 
-Make the promotion trendy and offer discounts on the product to make it appealing to the age groups of (18-30 and 31-43) posting them on social media (Twitter, Instagram, and Facebook) while also offering student discounts.
-For the 57 above Age Group, café harmony should consider promoting healthier options and products that cater to this group’s preferences.
-Based on the analysis, it’s clear that the Latte Performance is low because of low stock in milk. Café harmony should get new milk suppliers with rich quality, adjust the price and also market the new and improved latte to improve sales.
-café harmony should focus its efforts on weaker products (croissants and Latte) by always making them regularly available on the menu.
+---
 
+## 🎯 Project Goals
 
-I also advised Café harmony should introduce and compensate the top performer with sales commission to drive sales and improve those underperforming.
-Adequate training should be done monthly or quarterly to improve employees performance and sales.
-The café should analyze feedback comments (1 & 2 ratings) to help pinpoint issues and devise means to improve the rating through improving areas in service quality, menu variety, or pricing.
-The business should focus on converting 3 ratings into 4 or 5 ratings experiences by improving some of its products, like Latte and iced tea, and also enhancing advertising and providing better service.
+- Analyze sales performance by location and product
+- Identify trends in customer satisfaction and demand
+- Optimize stock levels and product availability
+- Recommend targeted promotions for underperforming items
+- Support employee performance with data-driven incentives
 
+---
 
-Cappuccino has the most negative feedback, although the demand for the product is high, resulting in it being the highest seller or revenue maker amongst other products. This could be because the product is always available to customers against their preference. There is also a shortage in stock of milk, and even though the coffee beans are above the ideal stock by (27), the quantity in stock is still low, affecting the quality and taste of the cappuccino because the café is managing the quantities left.
+## 📊 Tools & Techniques
 
+- **Microsoft Excel**
+- Advanced formulas: `IFS`, `IF AND`, `COUNTIF`, `XLOOKUP`, `INDEX/MATCH`
+- **Pivot Tables & Charts**
+- **Interactive Dashboard** with slicers and KPIs
 
-The Cappuccino ingredients should be reviewed by conducting a customer survey to identify the specific complaint. The Taste and price might be the problem. The café should hire a coffee brewer or conduct taste tests to find the best formula. The café should also be scouting for a quality supplier for the cappuccino ingredients(coffee beans and milk).
-To get more business insight on the sales performance of cafe harmony, kindly go throught the cafe harmony power point presentation file and excel working.
+---
 
+## 🔍 Key Insights & Findings
 
-Thank you
+- **Top Sellers**: Cappuccino and Muffins
+- **Low Performers**: Croissant and Latte (due to low stock and customer perception)
+- **Customer Feedback**: Cappuccino has the highest negative ratings, despite being the top-selling item
+- **Milk Shortage** is impacting latte quality and cappuccino consistency
 
+---
+
+## 📌 Recommendations
+
+- Bundle high-performing products (Cappuccino + Muffins) to drive higher revenue
+- Promote Croissant and Latte via trendy bundles, discounts, and social media campaigns targeted at younger age groups (18–43)
+- Offer healthy product alternatives for older customers (57+)
+- Improve Latte performance by sourcing quality milk and adjusting price/taste
+- Compensate top-performing staff with sales commissions to motivate performance
+- Provide **monthly/quarterly employee training** to boost service and sales
+- Investigate **low feedback scores (1 & 2)** to identify service gaps
+- Improve product experience to convert average (3-star) reviews to 4 or 5 stars
+
+---
+
+## 💬 Actionable Advice
+
+- **Review Cappuccino Ingredients**: Conduct customer surveys, hire a coffee expert, and improve supplier quality  
+- **Stock Optimization**: Address shortages in milk, monitor ingredient usage, and forecast demand  
+- **Feedback Analysis**: Dive into comments to pinpoint dissatisfaction drivers and adjust service or product strategies  
+
+---
+
+## 📁 Files Included
+
+- 📊 Excel Dashboard (with formulas and visualizations)
+- 📄 PowerPoint Presentation (summary of findings and recommendations)
+
+---
 
 ## 📬 Let’s Connect
 
